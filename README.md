@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @21091A0302
 - 👀 I’m interested in IT Industry
-- 🌱 I’m currently learning Data Analysis
+- 🌱 Seeking for Entry level role in Frontend, Backend, Full Stack Development
 - 📫 How to reach me guntikalzoho@gmail.in
 
 
